@@ -7,7 +7,7 @@ body{
     background-image: url("img1.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size:cover;
 }
 .navbar{
     display: flex;
@@ -32,6 +32,7 @@ body{
     line-height: 130%; /* 31.2px */
 }
 .styleH{
+    margin-right:811px;
     color: #FF4B32;
     font-family: "Open Sans", sans-serif;
     font-size: 18px;
